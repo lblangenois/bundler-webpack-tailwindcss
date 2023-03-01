@@ -1,0 +1,8 @@
+{
+  "name": "bundler-webpack-tailwind",
+  "version": "0.1.0",
+  "description": "Bundler starter for bundle assets file using Webpack and PostCSS, with support for TailwindCSS, Sass and fonts files",
+  "main": "main.ts",
+  "author": "Logan Blangenois <hello@logan-blangenois.be>",
+  "license": "MIT"
+}
